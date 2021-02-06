@@ -36,5 +36,6 @@ SORTING :
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
-- Quick Sort
+- Merge Sort (iterative & recursive)
+- Quick Sort (iterative & recursive)
 - Heap Sort
